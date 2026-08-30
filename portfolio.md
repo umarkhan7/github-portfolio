@@ -1,18 +1,19 @@
-# Hi, I'm Mohammad Umar Khan ��
+# Hi, I'm Mohammad Umar Khan
 
 **Software Engineer | Backend & Distributed Systems**
 
 I build scalable microservices and distributed systems in Java, Spring Boot, Python, and Golang — with 6+ years shipping production-grade software across fintech and payments.
 
-�� India &nbsp;|&nbsp; �� omar.khan14@gmail.com &nbsp;|&nbsp; �� [linkedin.com/in/mohd-umar](https://www.linkedin.com/in/mohd-umar/)
-
+[![Location](https://img.shields.io/badge/-India-lightgrey?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/-omar.khan14%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:omar.khan14@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-mohd--umar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-umar/)
 ---
 
-## �� About Me
+## About Me
 
 Software Engineer with a track record of leading engineering teams, owning end-to-end system design (HLD & LLD), and delivering high-throughput, high-availability systems at scale. Currently building fraud-risk decisioning systems at JPMorgan Chase, with prior experience at Razorpay, Chargebee, and Klay Capital across fintech, payments, and wealth-management platforms.
 
-## ��️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -25,7 +26,7 @@ Software Engineer with a track record of leading engineering teams, owning end-t
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 
-## �� Experience Highlights
+## Experience Highlights
 
 **Module Lead — JPMorgan Chase** *(Jul 2025 – Present)*
 - Own full-stack SDLC delivery for a real-time fraud-decision engine (Fraud Sentry / SeRA) and lead a 6-engineer team.
@@ -54,17 +55,17 @@ Software Engineer with a track record of leading engineering teams, owning end-t
 **Member of Technical Staff — CrestCore Solutions** *(Nov 2017 – Mar 2018)*
 - Built and tested a module tracking IoT device activity (Java, C++), persisting data to a central SQL database for analytics.
 
-## �� Education
+## Education
 
 - PG-Diploma in Development of Advanced Computing — CDAC, Mumbai (2018–2019)
 - B.Tech in Computer Science & Engineering — Integral University, Lucknow (2013–2017)
 
-## �� Certifications
+## Certifications
 
 - Coding Ninjas: Basic and Advanced Data Structures
 - IBM Data Science
 
-## �� Get in Touch
+## Get in Touch
 
-- �� [omar.khan14@gmail.com](mailto:omar.khan14@gmail.com)
-- �� [LinkedIn](https://www.linkedin.com/in/mohd-umar/)
+-  [omar.khan14@gmail.com](mailto:omar.khan14@gmail.com)
+-  [LinkedIn](https://www.linkedin.com/in/mohd-umar/)

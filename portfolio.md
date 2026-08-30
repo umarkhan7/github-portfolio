@@ -46,6 +46,14 @@ Software Engineer with a track record of leading engineering teams, owning end-t
 **Associate Software Engineer — Klay Capital** *(Oct 2020 – Dec 2021)*
 - Built a cloud-based SaaS wealth-management platform from scratch (Java, microservices, AWS).
 
+**Software Development Engineer — Accelya Solutions** *(Mar 2019 – Sept 2020)*
+- Maintained and enhanced REVERA, the flagship airline revenue management system, delivering production hotfixes and codebase improvements.
+- Built critical UI, business logic, and data-access layer components using WAT, an in-house Java/J2EE web framework.
+- Wrote PL/SQL packages, procedures, and functions extending REVERA's revenue-reporting capabilities.
+
+**Member of Technical Staff — CrestCore Solutions** *(Nov 2017 – Mar 2018)*
+- Built and tested a module tracking IoT device activity (Java, C++), persisting data to a central SQL database for analytics.
+
 ## �� Education
 
 - PG-Diploma in Development of Advanced Computing — CDAC, Mumbai (2018–2019)
